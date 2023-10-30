@@ -12,8 +12,8 @@
 
 **Questions about a lesson**:
 
-- Occasionally your instructor will ask you to answer questions in the slack channel: `seir-710-ec-classroom`
-- However, most debugging questions should be posted to this slack channel: `seir-710-ec-debugging`
+- Occasionally your instructor will ask you to answer questions in the slack channel: `seir-1016-ec-classroom`
+- However, most debugging questions should be posted to this slack channel: `seir-1016-ec-debugging`
 - During session lectures, please feel free to unmute and *"interrupt"* if you have a question that has not been answered, after a short time. Instructors may not see "raised hands" during remote instruction.
 
 ## Using the `debug` channel
